@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Storefront - React-Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Storefront Demo](https://github.com/dtaco/Storefront---React-Redux/blob/master/Desktop/Personal%20Project%20folder/reactreduxproj1/public/Screen%20Shot%202023-07-19%20at%207.02.42%20PM.png)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This is my first React/Redux combo project aimed at creating a basic storefront. The project leverages React for building the user interface and Redux for state management, providing a dynamic and responsive user experience.
 
-### `npm start`
+## Objective
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The main goal of this project is to develop a fully functional storefront using the React.js library and harnessing the power of Redux for efficient state management. With this combination, we aim to achieve a seamless user experience, ensuring that the application remains responsive and scalable.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Current Focus
 
-### `npm test`
+As of now, the basic framework of the storefront has been completed. The project includes essential components such as containers, action types, and reducers, which work together to manage the application's state. Routing functionality has been implemented, ensuring smooth navigation within the application. The integration of Axios facilitates API calls, allowing seamless data retrieval from external sources.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Next Focus
 
-### `npm run build`
+The upcoming focus will involve two primary tasks:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. Styling Enhancements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In the next phase, we will be working on improving the overall visual appeal of the storefront. This will include refining the layout, applying consistent themes, and ensuring the application's user interface adheres to modern design principles.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2. Implementing Store Cart Functionality
 
-### `npm run eject`
+One of the essential features of a storefront is the shopping cart. In the next phase of development, we will be integrating the store cart functionality, allowing users to add items, view their cart contents, and manage their shopping selections.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is licensed under the [MIT License](link-to-license).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you have any questions or need further assistance, feel free to reach out to the project maintainer:
 
-## Learn More
+- Name: David Tacoronte
+- Email: d.tacoronte@gmail.com
+- GitHub: [@dtaco](https://github.com/dtaco)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We appreciate your interest in our storefront project! Happy coding!
